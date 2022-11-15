@@ -1,2 +1,2 @@
-# MLP_on_MNIST
+# MLP-on-MNIST
 Implementation of MLP on MNIST dataset
